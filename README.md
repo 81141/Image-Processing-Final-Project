@@ -1,4 +1,4 @@
-Project: Image Enhancement and Quality Detection
+# Project: Image Enhancement and Quality Detection
 
 This project improves low-quality images by detecting common issues such as noise, blur, and low contrast, then applying enhancement techniques to improve visual quality.
 
